@@ -20,3 +20,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // keep defaults in sync with the manifest
 // clarify the control flow
 // avoid re-reading the config on every call
+// clarify the control flow
