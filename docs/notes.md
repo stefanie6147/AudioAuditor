@@ -31,3 +31,4 @@ Notes and usage details for AudioAuditor.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
